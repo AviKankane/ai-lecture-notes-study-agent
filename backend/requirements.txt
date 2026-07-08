@@ -1,0 +1,14 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+sqlmodel==0.0.22
+pydantic==2.9.2
+pydantic-settings==2.5.2
+langgraph==0.2.34
+tenacity==9.0.0
+google-genai==0.3.0
+chromadb==0.5.5
+openai-whisper==20240930
+yt-dlp==2026.7.4
+pytest==8.3.3
+httpx==0.27.2
